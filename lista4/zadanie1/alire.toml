@@ -1,0 +1,9 @@
+name = "zadanie1"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Piaskowski Szymon"]
+maintainers = ["Piaskowski Szymon <piaszymon@outlook.com>"]
+maintainers-logins = ["piaskowskiSzymon"]
+
+executables = ["zadanie1"]
