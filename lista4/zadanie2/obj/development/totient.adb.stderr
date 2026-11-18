@@ -1,0 +1,3 @@
+totient.adb:10:25: (style) bad casing of "P" declared at line 5
+totient.adb:20:04: (style) "end Totient" required
+totient.ads:4:05: (style) bad casing of "Totient" declared at line 1

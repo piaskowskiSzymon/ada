@@ -1,0 +1,58 @@
+V "GNAT Lib v13"
+A -Og
+A -gnatA
+A -ffunction-sections
+A -fdata-sections
+A -g
+A -gnatwa
+A -gnatw.X
+A -gnatVa
+A -gnaty3
+A -gnatya
+A -gnatyA
+A -gnatyB
+A -gnatyb
+A -gnatyc
+A -gnaty-
+A -gnatyd
+A -gnatye
+A -gnatyf
+A -gnatyh
+A -gnatyi
+A -gnatyI
+A -gnatyk
+A -gnatyl
+A -gnatym
+A -gnatyn
+A -gnatyO
+A -gnatyp
+A -gnatyr
+A -gnatyS
+A -gnatyt
+A -gnatyu
+A -gnatyx
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U totient%b		totient.adb		432d4e3d NE OO PK
+
+U totient%s		totient.ads		1432ca6f EE NE OO PK
+
+D system.ads		20230727081304 426dafb8 system%s
+D totient.ads		20261118091618 1432ca6f totient%s
+D totient.adb		20261118091614 571f8452 totient%b
+G a e
+G c Z s b [totient totient 2 13 none]
+X 2 totient.ads
+1K9*Totient 4l5 4e12 3|1b14 22l5 22t12
+2V13*Totient{positive} 2>22 3|2b13 20t7
+2i22 N{positive} 3|2b22 3r27 4r27
+X 3 totient.adb
+3i7 Wynik{positive} 9m13 9r22 17m10 17r19 19r14
+4i7 M{positive} 7r18 8r13 10r19 11m16 11r21 16r10 17r27 17r32
+5i7 P{positive} 7r13 7r22 8r19 9r30 9r35 10r25 11r25 14m10 14r15
+

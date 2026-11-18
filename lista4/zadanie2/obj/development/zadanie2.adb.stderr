@@ -1,0 +1,6 @@
+zadanie2.adb:1:16: (style) bad casing of "Text_IO" declared at a-textio.ads:58
+zadanie2.adb:13:14: (style) space required
+zadanie2.adb:15:29: (style) space required
+zadanie2.adb:16:18: (style) space required
+zadanie2.adb:17:29: (style) space required
+zadanie2.adb:20:21: (style) space required

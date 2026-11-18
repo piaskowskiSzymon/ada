@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__zadanie2.o
+[PROJECT FILES]
+/home/piasz/ada/lista4/zadanie2/zadanie2.gpr
+20261118085039 bb35c4450880b30a4e489b5f7b781c13
+/home/piasz/ada/lista4/zadanie2/config/zadanie2_config.gpr
+20261118085116 d4362903a40256f2f95ab5181d4a9bc9
+[BOUND OBJECT FILES]
+/home/piasz/ada/lista4/zadanie2/obj/development/totient.o
+/home/piasz/ada/lista4/zadanie2/obj/development/zadanie2.o
+[GENERATED SOURCE FILES]
+b__zadanie2.ads
+b__zadanie2.adb
+b__zadanie2.ali
+[RESULTING OPTIONS]
+-L/home/piasz/ada/lista4/zadanie2/obj/development/
+-L/home/piasz/ada/lista4/zadanie2/obj/development/
+-L/home/piasz/.config/alire/cache/dependencies/gnat_native_13.2.1_788a01f9/lib/gcc/x86_64-pc-linux-gnu/13.2.0/adalib/
+-static
+-static-libgcc
+/home/piasz/.config/alire/cache/dependencies/gnat_native_13.2.1_788a01f9/lib/gcc/x86_64-pc-linux-gnu/13.2.0/adalib/libgnat.a
+-ldl
